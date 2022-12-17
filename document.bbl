@@ -1,0 +1,552 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{atkins2014}{book}{}
+    \name{author}{3}{}{%
+      {{hash=AP}{%
+         family={Atkins},
+         familyi={A\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=APW}{%
+         family={Atkins},
+         familyi={A\bibinitperiod},
+         given={Peter\bibnamedelima William},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=dPJ}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Paula},
+         familyi={P\bibinitperiod},
+         given={Julio},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford university press}%
+    }
+    \strng{namehash}{APAPWPJd1}
+    \strng{fullhash}{APAPWPJd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Atkins' physical chemistry}
+    \field{year}{2014}
+  \endentry
+
+  \entry{bronova2018}{misc}{}
+    \name{author}{5}{}{%
+      {{hash=BA}{%
+         family={Bronova},
+         familyi={B\bibinitperiod},
+         given={Anna},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Bredow},
+         familyi={B\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Glaum},
+         familyi={G\bibinitperiod},
+         given={Robert},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=RMJ}{%
+         family={Riley},
+         familyi={R\bibinitperiod},
+         given={Mark\bibnamedelima J},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=UW}{%
+         family={Urland},
+         familyi={U\bibinitperiod},
+         given={Werner},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BABTGRRMJUW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{BonnMag: Computer program for ligand-field analysis of f n
+  systems within the angular overlap model}
+    \field{year}{2018}
+  \endentry
+
+  \entry{chartjs}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Chart.js {\textbar} {Chart}.js}
+    \verb{url}
+    \verb https://www.chartjs.org/docs/latest/
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{threejs}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{title}{Creating a scene – three.js docs}
+    \verb{url}
+    \verb https://threejs.org/docs/index.html#manual/en/introduction/Creating-a
+    \verb -scene
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{deploying_django}{misc}{}
+    \list{language}{1}{%
+      {en}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Understanding Python Applications on Heroku%
+    }
+    \field{title}{Deploying {Python} and {Django} {Apps} on {Heroku} {\textbar}
+  {Heroku} {Dev} {Center}}
+    \verb{url}
+    \verb https://devcenter.heroku.com/articles/deploying-python
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{django}{misc}{}
+    \list{language}{1}{%
+      {en-US}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Congratulations, you've completed the first step in your Django journey!
+  You should now understand Django's main benefits, a little about its history,
+  and roughly what each of the main parts of a Django app might look like. You
+  should have also learned a few things about the Python programming language,
+  including the syntax for lists, functions, and classes.%
+    }
+    \field{title}{Django introduction - {Learn} web development {\textbar}
+  {MDN}}
+    \verb{url}
+    \verb https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Int
+    \verb roduction
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{githubpages}{misc}{}
+    \list{language}{1}{%
+      {en}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Websites for you and your projects, hosted directly from your GitHub
+  repository. Just edit, push, and your changes are live.%
+    }
+    \field{title}{{GitHub} {Pages}}
+    \verb{url}
+    \verb https://pages.github.com/
+    \endverb
+    \field{journaltitle}{GitHub Pages}
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{d3}{misc}{}
+    \list{language}{1}{%
+      {en}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Bring data to life with SVG, Canvas and HTML.
+  :bar\_chart::chart\_with\_upwards\_trend::tada: - Home · d3/d3 Wiki%
+    }
+    \field{title}{Home · d3/d3 {Wiki}}
+    \verb{url}
+    \verb https://github.com/d3/d3
+    \endverb
+    \field{journaltitle}{GitHub}
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{larsen1974}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LE}{%
+         family={Larsen},
+         familyi={L\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LMGN}{%
+         family={La\bibnamedelima Mar},
+         familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+         given={Gerd\bibnamedelima N},
+         giveni={G\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{LELMGN1}
+    \strng{fullhash}{LELMGN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{10}
+    \field{pages}{633}
+    \field{title}{The angular overlap model. How to use it and why}
+    \field{volume}{51}
+    \field{journaltitle}{Journal of Chemical Education}
+    \field{year}{1974}
+  \endentry
+
+  \entry{miessler_inorganic_2014}{book}{}
+    \name{author}{3}{}{%
+      {{hash=MGL}{%
+         family={Miessler},
+         familyi={M\bibinitperiod},
+         given={Gary\bibnamedelima L.},
+         giveni={G\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=FPJ}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Paul\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=TDA}{%
+         family={Tarr},
+         familyi={T\bibinitperiod},
+         given={Donald\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Pearson}%
+    }
+    \keyw{Chemistry, Inorganic, Textbooks}
+    \strng{namehash}{MGLFPJTDA1}
+    \strng{fullhash}{MGLFPJTDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{edition}{Fifth edition}
+    \field{isbn}{9780321811059}
+    \field{title}{Inorganic chemistry}
+    \list{location}{1}{%
+      {Boston}%
+    }
+    \field{year}{2014}
+  \endentry
+
+  \entry{react}{misc}{}
+    \list{language}{1}{%
+      {en}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    A JavaScript library for building user interfaces%
+    }
+    \field{title}{React – {A} {JavaScript} library for building user
+  interfaces}
+    \verb{url}
+    \verb https://reactjs.org/
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{heroku_removal_of_free_tier}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{Removal of {Heroku} {Free} {Product} {Plans} {FAQ} - {Heroku}
+  {Help}}
+    \verb{url}
+    \verb https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans
+    \verb -faq
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{d3_vs_chartjs}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Szymula},
+         familyi={S\bibinitperiod},
+         given={Ania},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    JavaScript has a shockingly large number of libraries, around ninety-eight
+  to give a solid estimate. The two of which I have worked with…%
+    }
+    \field{shorttitle}{Comparisons in {Coding}}
+    \field{title}{Comparisons in {Coding}: {Using} {Chart}.js vs {D3}.js,
+  {From} a {Beginner}’s {Perspective}}
+    \verb{url}
+    \verb https://medium.com/swlh/comparisons-in-coding-using-chart-js-vs-d3-js
+    \verb -from-a-beginners-perspective-51f9c04911f1
+    \endverb
+    \field{journaltitle}{The Startup}
+    \field{month}{12}
+    \field{year}{2020}
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{thomascolwell2022}{article}{}
+    \name{author}{8}{}{%
+      {{hash=TCJ}{%
+         family={Thomas-Colwell},
+         familyi={T\bibinithyphendelim C\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sookezian},
+         familyi={S\bibinitperiod},
+         given={Arvin},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KDA}{%
+         family={Kurtz},
+         familyi={K\bibinitperiod},
+         given={Daniel\bibnamedelima A},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kallick},
+         familyi={K\bibinitperiod},
+         given={Jeremy},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HLM}{%
+         family={Henling},
+         familyi={H\bibinitperiod},
+         given={Lawrence\bibnamedelima M},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=STA}{%
+         family={Stich},
+         familyi={S\bibinitperiod},
+         given={Troy\bibnamedelima A},
+         giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HMG}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Michael\bibnamedelima G},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=HBM}{%
+         family={Hunter},
+         familyi={H\bibinitperiod},
+         given={Bryan\bibnamedelima M},
+         giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{TCJ+1}
+    \strng{fullhash}{TCJSAKDAKJHLMSTAHMGHBM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{32}
+    \field{pages}{12625\bibrangedash 12634}
+    \field{title}{Tuning Cobalt (II) Phosphine Complexes to be Axially
+  Ambivalent}
+    \field{volume}{61}
+    \field{journaltitle}{Inorganic chemistry}
+    \field{year}{2022}
+  \endentry
+
+  \entry{threejs_vs_webgl}{misc}{}
+    \list{language}{1}{%
+      {en}%
+    }
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{abstract}{%
+    The ultimate Three.js course whether you are a beginner or a more advanced
+  developer%
+    }
+    \field{title}{Three.js {Journey} — {What} is {WebGL} and why use
+  {Three}.js}
+    \verb{url}
+    \verb https://threejs-journey.com/lessons/what-is-webgl-and-why-use-three-j
+    \verb s
+    \endverb
+    \field{journaltitle}{Three.js Journey}
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+
+  \entry{figgis2002}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TJF}{%
+         family={Turner},
+         familyi={T\bibinitperiod},
+         given={John\bibnamedelima FC},
+         giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {ACS Publications}%
+    }
+    \strng{namehash}{TJF1}
+    \strng{fullhash}{TJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{9}
+    \field{pages}{1072}
+    \field{title}{Ligand Field Theory and Its Applications (Figgis, Brian N.;
+  Hitchman, Michael A.)}
+    \field{volume}{79}
+    \field{journaltitle}{Journal of Chemical Education}
+    \field{year}{2002}
+  \endentry
+
+  \entry{underhill1966}{article}{}
+    \name{author}{2}{}{%
+      {{hash=UA}{%
+         family={Underhill},
+         familyi={U\bibinitperiod},
+         given={AE},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Billing},
+         familyi={B\bibinitperiod},
+         given={DE},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group}%
+    }
+    \strng{namehash}{UABD1}
+    \strng{fullhash}{UABD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{number}{5038}
+    \field{pages}{834\bibrangedash 835}
+    \field{title}{Calculations of the racah parameter B for nickel (II) and
+  cobalt (II) compounds}
+    \field{volume}{210}
+    \field{journaltitle}{Nature}
+    \field{year}{1966}
+  \endentry
+
+  \entry{van2006}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VDJA}{%
+         family={Van\bibnamedelima Dijk},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Jan\bibnamedelima AGM},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{VDJA1}
+    \strng{fullhash}{VDJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{number}{4-5}
+    \field{pages}{221\bibrangedash 235}
+    \field{title}{Digital divide research, achievements and shortcomings}
+    \field{volume}{34}
+    \field{journaltitle}{Poetics}
+    \field{year}{2006}
+  \endentry
+
+  \entry{webmo}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{{WebMO} {System} {Requirements}}
+    \verb{url}
+    \verb https://www.webmo.net/about/requirements.html
+    \endverb
+    \field{urlday}{17}
+    \field{urlmonth}{12}
+    \field{urlyear}{2022}
+  \endentry
+\enddatalist
+\endinput
