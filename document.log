@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.29)  16 DEC 2022 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.29)  16 DEC 2022 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,126 +701,125 @@ Underfull \vbox (badness 5939) has occurred while \output is active []
 
 
 ]
-<aomslide.png, id=83, 607.26875pt x 527.9725pt>
-File: aomslide.png Graphic file (type png)
-<use aomslide.png>
-Package pdftex.def Info: aomslide.png  used on input line 57.
-(pdftex.def)             Requested size: 225.27841pt x 195.86235pt.
- [2] [3 <./aomslide.png>] [4]
-Underfull \vbox (badness 5050) has occurred while \output is active []
-
-<dorbitals.png, id=129, 594.22pt x 477.785pt>
+<dorbitals.png, id=91, 594.22pt x 477.785pt>
 File: dorbitals.png Graphic file (type png)
 <use dorbitals.png>
-Package pdftex.def Info: dorbitals.png  used on input line 106.
+Package pdftex.def Info: dorbitals.png  used on input line 57.
 (pdftex.def)             Requested size: 225.27841pt x 181.13734pt.
-<dorbitalsvisualizer.png, id=132, 592.2125pt x 543.02875pt>
+ [2 <./dorbitals.png>]
+<aomslide.png, id=109, 607.26875pt x 527.9725pt>
+File: aomslide.png Graphic file (type png)
+<use aomslide.png>
+Package pdftex.def Info: aomslide.png  used on input line 76.
+(pdftex.def)             Requested size: 225.27841pt x 195.86235pt.
+ [3 <./aomslide.png>] [4] [5]
+Underfull \vbox (badness 5050) has occurred while \output is active []
+
+<dorbitalsvisualizer.png, id=151, 592.2125pt x 543.02875pt>
 File: dorbitalsvisualizer.png Graphic file (type png)
 <use dorbitalsvisualizer.png>
-Package pdftex.def Info: dorbitalsvisualizer.png  used on input line 115.
+Package pdftex.def Info: dorbitalsvisualizer.png  used on input line 125.
 (pdftex.def)             Requested size: 225.27841pt x 206.5685pt.
- [5 <./dorbitals.png>]
-Underfull \vbox (badness 1975) has occurred while \output is active []
-
  [6 <./dorbitalsvisualizer.png>] [7]
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-61.
+71.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 171.
 
-Underfull \hbox (badness 1838) in paragraph at lines 162--162
+Underfull \hbox (badness 1838) in paragraph at lines 172--172
 []\OT1/ptm/m/it/10 Chart.js \OMS/cmsy/m/n/10 j \OT1/ptm/m/it/10 Chart.js\OT1/pt
 m/m/n/10 . \OT1/ptm/m/sc/10 url\OT1/ptm/m/n/10 : []$\OT1/pcr/m/n/10 https : / /
  www .
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 162--162
+Underfull \hbox (badness 1259) in paragraph at lines 172--172
 []\OT1/ptm/m/it/10 Deploying Python and Django Apps on Heroku
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 162--162
+Underfull \hbox (badness 1874) in paragraph at lines 172--172
 \OMS/cmsy/m/n/10 j \OT1/ptm/m/it/10 Heroku Dev Cen-ter\OT1/ptm/m/n/10 . en. \OT
 1/ptm/m/sc/10 url\OT1/ptm/m/n/10 : []$\OT1/pcr/m/n/10 https : / /
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 162--162
+Underfull \hbox (badness 1776) in paragraph at lines 172--172
 \OT1/pcr/m/n/10 devcenter . heroku . com / articles /
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 162--162
+Underfull \hbox (badness 1092) in paragraph at lines 172--172
 []\OT1/ptm/m/it/10 Django in-tro-duc-tion - Learn web de-vel-op-ment \OMS/cmsy/
 m/n/10 j
  []
 
+[8]
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-61.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+71.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 1701) in paragraph at lines 162--162
+Underfull \hbox (badness 1701) in paragraph at lines 172--172
 []\OT1/ptm/m/it/10 Removal of Heroku Free Prod-uct Plans FAQ -
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 162--162
+Underfull \hbox (badness 1484) in paragraph at lines 172--172
 \OT1/pcr/m/n/10 free -[] product -[] plans -[] faq$[] \OT1/ptm/m/n/10 (vis-ited
  on
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 162--162
+Underfull \hbox (badness 2096) in paragraph at lines 172--172
 []\OT1/ptm/m/n/10 Szymula, Ania. \OT1/ptm/m/it/10 Com-par-isons in Cod-ing: Us-
 ing
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 162--162
+Underfull \hbox (badness 1728) in paragraph at lines 172--172
 \OT1/ptm/m/n/10 en. Dec. 2020. \OT1/ptm/m/sc/10 url\OT1/ptm/m/n/10 : []$\OT1/pc
 r/m/n/10 https : / / medium .
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 162--162
+Underfull \hbox (badness 2809) in paragraph at lines 172--172
 []\OT1/ptm/m/it/10 Three.js Jour-ney | What is We-bGL and why
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 162--162
+Underfull \hbox (badness 1881) in paragraph at lines 172--172
 \OT1/pcr/m/n/10 and -[] why -[] use -[] three -[] js$[] \OT1/ptm/m/n/10 (vis-it
 ed on
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 162--162
+Underfull \hbox (badness 1033) in paragraph at lines 172--172
 \OT1/ptm/m/n/10 In: \OT1/ptm/m/it/10 Jour-nal of Chem-i-cal Ed-u-ca-tion \OT1/p
 tm/m/n/10 79.9 (2002),
  []
 
 
-Underfull \hbox (badness 3029) in paragraph at lines 162--162
+Underfull \hbox (badness 3029) in paragraph at lines 172--172
 []\OT1/ptm/m/n/10 Van Dijk, Jan AGM. ``Dig-i-tal di-vide re-search,
  []
 
-[8] (./document.aux)
+[9] (./document.aux)
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: 8F1D0F01154A02122E0BFCEB3156DFDD;2151.
+(rerunfilecheck)             Checksum: 7CD008BEBA6C2BB5AE6EF98E712083C4;2469.
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19601 strings out of 478994
- 330495 string characters out of 5858183
- 838861 words of memory out of 5000000
- 36786 multiletter control sequences out of 15000+600000
+ 19606 strings out of 478994
+ 330561 string characters out of 5858183
+ 839861 words of memory out of 5000000
+ 36788 multiletter control sequences out of 15000+600000
  422713 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,8n,89p,2527b,1455s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -832,10 +831,10 @@ ve/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/
 texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on document.pdf (8 pages, 1005635 bytes).
+Output written on document.pdf (9 pages, 1009984 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 212 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
